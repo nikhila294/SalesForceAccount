@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-28T19:26:35 IST" name="Default suite" finished-at="2021-10-28T19:27:13 IST" duration-ms="38219">
+    <groups>
+    </groups>
+    <test started-at="2021-10-28T19:26:35 IST" name="Default test" finished-at="2021-10-28T19:27:13 IST" duration-ms="38219">
+      <class name="com.account.VerifySalesforceAccount">
+        <test-method signature="getAccessToken_POST()[pri:0, instance:com.account.VerifySalesforceAccount@306e95ec]" started-at="2021-10-28T19:26:35 IST" name="getAccessToken_POST" finished-at="2021-10-28T19:26:39 IST" duration-ms="3954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAccessToken_POST -->
+        <test-method signature="createAccount_POST()[pri:1, instance:com.account.VerifySalesforceAccount@306e95ec]" started-at="2021-10-28T19:26:39 IST" name="createAccount_POST" finished-at="2021-10-28T19:26:40 IST" duration-ms="937" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccount_POST -->
+        <test-method signature="loginToSalesforceAccount()[pri:2, instance:com.account.VerifySalesforceAccount@306e95ec]" started-at="2021-10-28T19:26:40 IST" name="loginToSalesforceAccount" finished-at="2021-10-28T19:27:13 IST" duration-ms="33274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToSalesforceAccount -->
+      </class> <!-- com.account.VerifySalesforceAccount -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
